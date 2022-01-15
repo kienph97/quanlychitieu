@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuanLyChiTieu</string>
+    <string name="selected_item">Selected item:</string>
+    
+    <string-array name="Spending">
+        <item>Thu nhập</item>
+        <item>Chi tiêu</item>
+    </string-array>
+    <string-array name="Unit">
+        <item>USD</item>
+        <item>VND</item>
+    </string-array>
+    <string-array name="Type">
+        <item>Thức ăn</item>
+        <item>Đồ uống</item>
+        <item>Shopping</item>
+        <item>Quần áo</item>
+        <item>Giay dép</item>
+        <item>Tiền lương</item>
+        <item>Tiền thưởng</item>
+        <item>Chứng khoán</item>
+        <item>Biếu, tặng</item>
+        <item>Khác</item>
+    </string-array>
+</resources>
